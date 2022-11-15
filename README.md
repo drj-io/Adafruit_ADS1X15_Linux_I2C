@@ -3,7 +3,7 @@
 Driver for TI's ADS1X15: 12 and 16-bit Differential or Single-Ended ADC with PGA and Comparator
 
 # Fork
-This repository has been forked from https://github.com/adafruit/Adafruit_ADS1X15
+This repository has been forked from https://github.com/adafruit/Adafruit_ADS1X15 and is modified for use with Linux systems including Raspberry PI Raspian (32 or 64bit) and only uses existing linux kernel headers. 
 
 ## Changes
 The following changes have been made: 
@@ -19,6 +19,13 @@ This library and examples should operate on most Linux systems with i2c kernel d
 Thanks to Adafruit for providing most of the code shown here.
 
 ## Usage
+
+for Debian based systems, you'll need to install i2c-dev.
+
+```bash
+sudo apt install i2c-dev
+```
+
 
 main.cpp
 ```cpp
