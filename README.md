@@ -3,9 +3,9 @@
 Driver for TI's ADS1X15: 12 and 16-bit Differential or Single-Ended ADC with PGA and Comparator
 
 # Fork
-This repository has been forked from 
-## Info
-Forked and modified for use directly on linux systems. The following changes have been made: 
+This repository has been forked from https://github.com/adafruit/Adafruit_ADS1X15/fork
+## Changes
+The following changes have been made: 
 
 - Removed Arduino specific headers and methods
 - Replaced i2c communication methods using `i2c-dev` hand `ioctl` kernel headers.
