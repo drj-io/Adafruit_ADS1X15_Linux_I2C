@@ -9,7 +9,7 @@ This repository has been forked from https://github.com/adafruit/Adafruit_ADS1X1
 The following changes have been made: 
 
 - Removed Arduino specific headers and methods
-- Replaced i2c communication methods using `i2c-dev` hand `ioctl` kernel headers.
+- Replaced i2c communication methods using `i2c-dev` and `ioctl` kernel headers.
 - Specifically avoid using deprecated libraries (like WiringPI)
 - Removed Arduino specific library information
 - TODO: Update examples
