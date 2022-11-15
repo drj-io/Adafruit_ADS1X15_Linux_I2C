@@ -3,7 +3,8 @@
 Driver for TI's ADS1X15: 12 and 16-bit Differential or Single-Ended ADC with PGA and Comparator
 
 # Fork
-This repository has been forked from https://github.com/adafruit/Adafruit_ADS1X15/fork
+This repository has been forked from https://github.com/adafruit/Adafruit_ADS1X15
+
 ## Changes
 The following changes have been made: 
 
