@@ -1,4 +1,4 @@
-# Adafruit_ADS1015_Linux_I2C
+# Adafruit_ADS1015_Linux_I2C - ADS1015 updated for C++ on Linux 
 
 Driver for TI's ADS1X15: 12 and 16-bit Differential or Single-Ended ADC with PGA and Comparator
 
