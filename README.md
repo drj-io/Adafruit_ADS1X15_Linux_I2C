@@ -52,7 +52,7 @@ g++ -c -o ads.o Adafruit_ADS1X15.cpp
 g++ -o a.out main.o ads.o
 ```
 
-## Info
+# Info
 
 This family of ADCs provide 4 single-ended or 2 differential channels.
 Each has a programmable gain amplifier from 2/3 up to 16x. Available
@@ -67,6 +67,6 @@ Adafruit invests time and resources providing this open source code, please
 support Adafruit and open-source hardware by purchasing products from
 [Adafruit](https://www.adafruit.com)!
 
-## License
+# License
 
  BSD license, all text above must be included in any redistribution.
